@@ -59,7 +59,7 @@ if(allHeld && allSame){
   ,[number])
 
   return(
-  <main>z
+  <main>
     <h1 className="title">Tenzies</h1>
     <p className="instructions">{tenzies ? "YAY YOU WON \u{1F389}" : "Roll until all dice are the same. Click each die to freeze it at its current value between rolls."}</p>
 
